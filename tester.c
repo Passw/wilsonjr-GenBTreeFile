@@ -461,7 +461,6 @@ int main()
 
 
         }
-        system("pause");
 
     } while (opcao != 7);
 
