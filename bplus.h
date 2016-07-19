@@ -14,8 +14,6 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include <string.h>
-#include <time.h>
-#include <windows.h>
 
 
 struct elementos
